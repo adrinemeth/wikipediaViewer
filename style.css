@@ -1,0 +1,17 @@
+body{  
+background: url(http://s11.postimg.org/z96l9l1qr/sea_sky_beach_holiday.jpg) no-repeat fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+}
+section{
+  padding: 20px;
+}
+.btn{
+  margin-bottom: 10px;
+}
+h1{
+  background: rgba(255,255,255, 0.7);
+  display: inline-block;
+}
